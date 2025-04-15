@@ -1,2 +1,3 @@
 # Tripod Extension for Vytautas Bucionis
-## i am another title
+## Created by: Michelle Polonsky and Kazem Hashemi
+## Client: Vytautas Bucionis
