@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Tripod Extension for Vytautas Bucionis
-description: Project for DCART 498. The product is an extension for a tripod meant to hold up to 4 equipment pieces attached with a quick-release.
+description: Product project for DCART 498
